@@ -292,7 +292,11 @@
      section {
          padding: 80px 20px;
      }
-
+  
+     .parag {
+         margin: 50px;
+     }
+  
      .main-content h2 {
          font-size: 1em;
      }
